@@ -3302,7 +3302,7 @@ electron-util@^0.12.1:
     electron-is-dev "^1.1.0"
     new-github-issue-url "^0.2.1"
 
-electron-util@^0.13.0, electron-util@^0.13.1:
+electron-util@^0.13.1:
   version "0.13.1"
   resolved "https://registry.yarnpkg.com/electron-util/-/electron-util-0.13.1.tgz#ba3b9cb7e5fdb6a51970a01e9070877cf7855ef8"
   integrity sha512-CvOuAyQPaPtnDp7SspwnT1yTb1yynw6yp4LrZCfEJ7TG/kJFiZW9RqMHlCEFWMn3QNoMkNhGVeCvWJV5NsYyuQ==
@@ -6200,15 +6200,6 @@ mac-open-with@^1.2.3:
   integrity sha512-1zz1P4k3dh/8rEeokA3XsZybvVBeZ8cEavDxI66HS+ROFy8s2MQiWK5bP/8ctJ5Av9FTOqAjr97384sGZin8ZA==
   dependencies:
     electron-util "^0.12.1"
-    execa "^2.0.4"
-    macos-version "^5.2.0"
-
-mac-screen-capture-permissions@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/mac-screen-capture-permissions/-/mac-screen-capture-permissions-1.1.0.tgz#a60ac7f06240d5037b0e86d409723ec36d077c8c"
-  integrity sha512-jMRumlB3FScui/7yW+5FqqbuO7CQ0XOJVT5oTsb7W9eRQDhCIpJpIF0XxLVXwq2DIOp0fYsz1LFiBjnyDYULyQ==
-  dependencies:
-    electron-util "^0.13.0"
     execa "^2.0.4"
     macos-version "^5.2.0"
 
